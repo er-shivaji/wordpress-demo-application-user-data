@@ -1,5 +1,4 @@
-ubuntu@ip-172-31-40-211:/mnt$ sudo cat install1.sh 
-#!/bin/bash -xe
+ #!/bin/bash 
 
 # Setpassword & DB Variables
 DBName='Your-db'
